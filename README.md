@@ -1,2 +1,2 @@
-## Golang Developer Resume
-This page is available [here](https://wanomir.github.io/resume-golang/)
+## Analyst Resume
+This page is available [here](https://wanomir.github.io/resume-analyst/)
